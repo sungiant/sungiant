@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Ash and I am a computer game programmer.  You can find an overview of all of my GitHub projects [here](OVERVIEW.md)
+
 <!--
 **sungiant/sungiant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
