@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My name is Ash and I am a computer game programmer.  You can find an overview of all of my GitHub projects [here](OVERVIEW.md)
+My name is Ash and I am a computer game programmer.  You can find an overview of all of my GitHub projects [here](OVERVIEW.md).
+
+- 🔭 I am currently working on a [fixed point maths library](https://github.com/sungiant/abacus) in C#.
+- 🌱 I am currently learning Vulkan by writing a [simple game engine](https://github.com/sungiant/sge) in C++.
 
 <!--
 **sungiant/sungiant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
